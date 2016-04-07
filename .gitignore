@@ -57,3 +57,6 @@ docs/_build/
 target/
 
 .DS_Store
+datasets/BinaryMNIST/*.amat
+datasets/MNIST/*.amat
+datasets/MNIST/*-ubyte
